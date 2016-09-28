@@ -1,0 +1,6 @@
+{
+  "name": "xiety",
+  "tagline": "xiety",
+  "body": "# SeqDax\r\nDynamics AX callstack to sequence diagram converter written in F# and converted to JavaScript using [Fable](https://fable-compiler.github.io/) to play with it online\r\n\r\n**Try online:**\r\nhttps://xiety.github.io/SeqDax/\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
